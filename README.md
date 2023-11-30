@@ -1,5 +1,5 @@
 # :loudspeaker:	  Venta de Garage
-Link directo al proyecto: [link](https://lordlez.github.io/VentaGarage/)
+Link directo al proyecto: [En construcción]
 
 
 # 📝 Objetivo del proyecto
