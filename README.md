@@ -1,5 +1,5 @@
-# :loudspeaker:	  Yard Sale (Venta de Garage)
-Link directo al proyecto: [link](https://lordlez.github.io/YardSale/)
+# :loudspeaker:	  Venta de Garage
+Link directo al proyecto: [link](https://lordlez.github.io/VentaGarage/)
 
 
 # 📝 Objetivo del proyecto
